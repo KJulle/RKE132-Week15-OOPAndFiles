@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week15OOPAndFiles", "Week15OOPAndFiles\Week15OOPAndFiles.csproj", "{C606E23B-A011-40BF-B8BC-146379DC81EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrozenSecretSanta", "FrozenSecretSanta\FrozenSecretSanta.csproj", "{FBF22D88-F54C-4231-AAD7-60565B947B4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C606E23B-A011-40BF-B8BC-146379DC81EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C606E23B-A011-40BF-B8BC-146379DC81EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C606E23B-A011-40BF-B8BC-146379DC81EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C606E23B-A011-40BF-B8BC-146379DC81EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBF22D88-F54C-4231-AAD7-60565B947B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF22D88-F54C-4231-AAD7-60565B947B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF22D88-F54C-4231-AAD7-60565B947B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF22D88-F54C-4231-AAD7-60565B947B4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {701C5FF9-66C5-4B48-8C29-97F67C63B5E7}
+	EndGlobalSection
+EndGlobal
